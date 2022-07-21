@@ -6,7 +6,7 @@ import Social from './Social';
 const Header = () => {
   return (
     <header>
-      <div className="container header__container">
+      <div className="container header_container">
         <h5> Hello I'm </h5>
         <h1> Rakotoarsion Kevin </h1>
         <h5 className="text-light">
@@ -15,7 +15,7 @@ const Header = () => {
         <CTA/>
         <Social/>
         <div className="me">
-          <img src={ME} alt="me"/>
+          <img src={ME} alt="me" className='me_img'/>
         </div>
         <a href="#contact" className='scroll'>Scroll</a>
       </div>
