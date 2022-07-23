@@ -8,6 +8,7 @@ import Footer from './component/footer/Footer';
 import Portfolio from './component/portfolio/Portfolio';
 import Services from './component/services/Services';
 import Study from './component/study/study';
+
 const App = () => {
   return (
     <>
