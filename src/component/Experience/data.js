@@ -4,7 +4,7 @@ export const developer = [
     experience: 'high level'
   },
   {
-    domain: "CSS",
+    domain: "C#",
     experience: 'medium level'
   },
   {
@@ -25,49 +25,61 @@ export const developer = [
   },
   {
     domain: "SQL",
-    experience: 'low level'
+    experience: 'medium level'
   },
   {
-    domain: "node",
+    domain: "Node",
     experience: 'high level'
   },
   {
-    domain: "django",
+    domain: "Vue",
     experience: 'medium level'
   },
+  {
+    domain: "AWS S3",
+    experience: 'medium level'
+  },
+  {
+    domain: "Docker",
+    experience: 'medium level'
+  },
+  {
+    domain: "Material UI",
+    experience: 'medium level'
+  },  
 ]
 
 export const machinelearning  = [
   {
-    domain: "python",
+    domain: "Python",
     experience: 'high level'
   },
   {
-    domain: "supervised",
+    domain: "Supervised",
     experience: 'medium level'
   },
   {
-    domain: "unsupervised",
+    domain: "Unsupervised",
     experience: 'medium level'
   },
   {
-    domain: "renforcement",
+    domain: "Renforcement",
     experience: 'low level'
   },
   {
-    domain: "neuronal network",
+    domain: "Neuronal network",
     experience: 'medium level'
   },
   {
-    domain: "pytorch",
+    domain: "Pytorch",
     experience: 'medium level'
   },
   {
-    domain: "tenserflow",
-    experience: 'medium level'
+    domain: "Tensorflow",
+    experience: 'low level'
   },
   {
-    domain: "graph network",
+    domain: "Graph network",
     experience: 'low level'
   }
 ]

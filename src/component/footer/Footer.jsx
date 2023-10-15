@@ -6,7 +6,7 @@ const Footer = () => {
     <footer>
       <a href="#" className="footer_logo"> PortalsHall</a>
       <p className="vision">
-        make your life easier by crossing our Portals</p>
+        Make your life easier by crossing our Portals</p>
       <ul className="links">
         <li>
           <a href="#"> Home</a>
@@ -31,18 +31,18 @@ const Footer = () => {
         </li>
       </ul>
       <div className="footer_socials">
-        <a href="https://facebook.com">
+        <a href="https://www.facebook.com/kevi.moifr/">
           <FaFacebookF />
         </a>
         <a href="https://instagram.com">
           <FaInstagram />
         </a>
-        <a href="https://twitter.com">
+        <a href="https://twitter.com/kevinRak3">
           <FaTwitter />
         </a>
       </div>
       <div className="footer_copyright">
-        <small>&copy; PortalsHall .All rights reserverd.</small>
+        <small>&copy; Rakotoarison Kevin .All rights reserverd.</small>
       </div>
     </footer>
   );
